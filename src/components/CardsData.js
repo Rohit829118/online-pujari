@@ -1,0 +1,122 @@
+const Cardsdata = [
+  {
+    id: 1,
+    rname: "GN Mishra",
+
+    imgdata:
+      "https://content.jdmagicbox.com/comp/chandigarh/r9/0172px172.x172.201102213540.f3r9/catalogue/best-pandit-ji-chandigarh-namami-astro--chandigarh-chandigarh-astrologers-62den9a9or.jpg?clr=",
+    address: "Ranchi",
+    days: "Tuesday, Friday, Sunday",
+    exp: "20years",
+    somedata: " 1175 + Booking placed from here recently",
+    price: 1000,
+    rating: "3.8",
+    qnty: 0,
+  },
+  {
+    id: 2,
+    rname: "Narayan Mishra",
+    days: "Tuesday, Friday, Monday",
+    exp: "11years",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0SHmb6DER65nf6esE_elLi1rbxm2vgMhFC2i8ghI4hLrybNCmFs840EsOMlTe1OFkCg&usqp=CAU",
+    address: "Street road ranchi",
+    somedata: " 2525 + Booking placed from here recently",
+    price: 1000,
+    rating: "3.9",
+    qnty: 0,
+  },
+  {
+    id: 3,
+    rname: "Rinku pandit",
+    exp: "8years",
+    days: "Tuesday, Thursday, Sunday",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt35gTZVm_uo2k3C0xpShvEAbqzOSw1c6LuZ5P2rpggKuXlIlXKW2VRxF7XrBKU2spYWU&usqp=CAU",
+    address: "Ranchi road",
+    price: 1000,
+    rating: "4.2",
+    qnty: 0,
+  },
+  {
+    id: 4,
+    rname: "Krishna Mishra",
+    days: "Tuesday, Friday, Wednesday",
+    exp: "12years",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-CCaF_n9E36p3RpC8l-lj7B4JeCY1f3xPnA&usqp=CAU",
+    address: "Ranchi ring road",
+    somedata: " 300 + booking placed from here recently",
+    price: 1000,
+    rating: "3.8",
+    qnty: 0,
+  },
+  {
+    id: 5,
+    rname: "Ravi Sastri",
+    days: "Tuesday, Friday, saturday",
+    exp: "18years",
+    somedata: " 1175 + Booking placed from here recently",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAhHoB_X5aR853lq_oqV_j33NM_JiJLe675jnslxOIHtg-Tgpo4i1L2PnGYpEAhXNjJU&usqp=CAU",
+    address: "Ranchi ",
+    price: 2100,
+    rating: "4.0",
+    qnty: 0,
+  },
+  {
+    id: 6,
+    rname: "Rohit Mishra",
+    days: "Tuesday, Monday, Sunday",
+    exp: "11years",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymM1q2wynl9K7DJCaVnJJyJgeDYXrYcKKmk7CrbRA6Jpx_KHTUAZR3Z2_UwG_mRp3fwY&usqp=CAU",
+    address: "Ring road Ranchi",
+    somedata: " 1100 + Booking placed from here recently",
+    price: 1000,
+    rating: "3.8",
+    qnty: 0,
+  },
+  {
+    id: 7,
+    rname: "Ajay Mishra",
+    days: "Tuesday, Friday, Sunday",
+    exp: "8years",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUjp2srqPSxac5M49xoFs8m7beCas_8eLTQnxnWY4zcb1gMh5-iEDjqTKJra9OrPUIcc&usqp=CAU",
+    address: "Ranchi Ratu Road",
+    somedata: "500 + booking placed from here recently",
+    price: 3000,
+    rating: "3.8",
+    qnty: 0,
+  },
+  {
+    id: 8,
+    rname: "Ravi Pandit",
+    days: "Tuesday, Friday, Sunday",
+    exp: "9years",
+    imgdata:
+      "https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/6a/6af695c7-27df-427b-86a8-35bc095bf028?rule=kijijica-200-jpg",
+    address: "Ranchi Ring Road",
+    somedata: "500 + booking placed from here recently",
+    price: 1000,
+    rating: "3.2",
+    qnty: 0,
+  },
+  {
+    id: 9,
+    rname: "Vijaynandan",
+    days: "Tuesday, Friday, Sunday",
+    exp: "13years",
+    imgdata:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9EcU2dPeeUR0mIwaBaFDdd4XJ50q6sZ8EuQti0NihOpqh2Fvuy4FdRYGy0QYPWxXIPc&usqp=CAU",
+    address: "Ranchi Ring Road",
+    exp: "10years",
+    somedata: "2525 + booking placed from here recently",
+    price: 1000,
+    rating: "3.8",
+    qnty: 0,
+  },
+];
+
+export default Cardsdata;
